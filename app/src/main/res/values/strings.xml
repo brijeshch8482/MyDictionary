@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Dictionary</string>
+    <string name="text_view">Text View</string>
+    <string name="loading">Loading...</string>
+    <string name="search">Search</string>
+    <string name="origin_of_the_word">Origin of the word :-</string>
+    <string name="meaning">Meaning :-</string>
+    <string name="example">Example :-</string>
+</resources>
